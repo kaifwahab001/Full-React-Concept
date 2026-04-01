@@ -1,0 +1,9 @@
+{
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "tailwindCSS.experimental.configFile": {
+    "Galler Application/src/index.css": "Galler Application/src/**",
+    "React with Tailwind css/src/index.css": "React with Tailwind css/src/**"
+  }
+}
